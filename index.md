@@ -8,13 +8,14 @@ As the Product Owner for Compliance, I lead the strategy and execution for ensur
 I established robust compliance frameworks covering NIST, FedRAMP, GDPR, ISO 27001, and NIS-2. 
 This involved creating comprehensive traceability systems, developing real-time compliance dashboards, and defining multi-level backlogs to ensure continuous audit readiness.
 
-*Enhanced Automotive Cybersecurity*
-I performed in-depth cybersecurity analyses of VW platforms to achieve and maintain compliance with critical automotive standards, including ISO 21434, UN R155/156, and China GB/T.
-
-*Drove Measurable Security Improvements*
+#### Enhanced Automotive Cybersecurity
+I performed in-depth cybersecurity analyses of VW platforms to achieve and maintain compliance with critical automotive standards, including ISO 21434, UN R155/156, and China GB/T. <br/>
+- [ISO 21434-CSMS AI Agent](https://github.com/BKnmz/CSMS-Coach) A custom AI assistant developed in Microsoft Copilot to automate Cybersecurity Management System (CSMS) compliance checks. The agent is prompted with instructions based on ISO 21434 principles to review code and suggest security improvements. <br/>
+ *Skills: Generative AI, Prompt Engineering, ISO 21434, Process Automation* <br/>
+#### Drove Measurable Security Improvements
 By driving requirement traceability and cross-functional alignment, I successfully contributed to improving the security of our products.
 
-*Led Cross-Functional Collaboration & Training*
+#### Led Cross-Functional Collaboration & Training
 I developed and delivered Automotive Cybersecurity Compliance training for over 100 colleagues in 2025, and created awareness of the organization's internal capabilities.
 📃 [Article version: Module 1: The overview of Automotive CyberSecurity Regulations and Standards](https://www.linkedin.com/pulse/overview-automotive-cybersecurity-regulations-standards-bugra-kanmaz-on2cf/?trackingId=Nmi5Nu9zRD%2BOxw9yKR65%2Bg%3D%3D)
 
