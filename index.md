@@ -10,7 +10,7 @@ This involved creating comprehensive traceability systems, developing real-time 
 
 #### Enhanced Automotive Cybersecurity
 I performed in-depth cybersecurity analyses of VW platforms to achieve and maintain compliance with critical automotive standards, including ISO 21434, UN R155/156, and China GB/T. <br/>
-🤖 [ISO 21434-CSMS AI Agent](https://github.com/BKnmz/CSMS-Coach) A custom AI assistant developed in Microsoft Copilot to automate Cybersecurity Management System (CSMS) compliance checks. The agent is prompted with instructions based on ISO 21434 principles to review code and suggest security improvements. <br/>
+🤖 [ISO 21434-CSMS AI Agent](https://github.com/BKnmz/CSMS-Coach) A custom AI assistant developed in Microsoft Copilot to automate Cybersecurity Management System (CSMS) ISO 21434  work products. <br/>
  *Skills: Generative AI, Prompt Engineering, ISO 21434, Process Automation* <br/>
 #### Drove Measurable Security Improvements
 By driving requirement traceability and cross-functional alignment, I successfully contributed to improving the security of our products.
