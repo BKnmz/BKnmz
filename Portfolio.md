@@ -4,20 +4,19 @@ As the Product Owner for Compliance, I lead the strategy and execution for ensur
 
 ### Key Accomplishments & Responsibilities:
 
-* Strengthened Regulatory Compliance & Audit Readiness
+*Strengthened Regulatory Compliance & Audit Readiness*
 I established robust compliance frameworks covering NIST, FedRAMP, GDPR, ISO 27001, and NIS-2. 
 This involved creating comprehensive traceability systems, developing real-time compliance dashboards, and defining multi-level backlogs to ensure continuous audit readiness.
 
-* Enhanced Automotive Cybersecurity
+*Enhanced Automotive Cybersecurity*
 I performed in-depth cybersecurity analyses of VW platforms to achieve and maintain compliance with critical automotive standards, including ISO 21434, UN R155/156, and China GB/T.
 
-* Drove Measurable Security Improvements
+*Drove Measurable Security Improvements*
 By driving requirement traceability and cross-functional alignment, I successfully contributed to improving the security of our products.
 
-* Led Cross-Functional Collaboration & Training
-I served as the central point of contact between regulatory, development, and component teams to ensure audit success and drive continuous improvement. I also developed and delivered 
-Automotive Cybersecurity Compliance training for over 100 colleagues in 2025 created awareness of the organization's internal capabilities.
-* 📃 [Article version: Module 1: The overview of Automotive CyberSecurity Regulations and Standards](https://www.linkedin.com/pulse/overview-automotive-cybersecurity-regulations-standards-bugra-kanmaz-on2cf/?trackingId=Nmi5Nu9zRD%2BOxw9yKR65%2Bg%3D%3D)
+*Led Cross-Functional Collaboration & Training*
+I developed and delivered Automotive Cybersecurity Compliance training for over 100 colleagues in 2025, and created awareness of the organization's internal capabilities.
+📃 [Article version: Module 1: The overview of Automotive CyberSecurity Regulations and Standards](https://www.linkedin.com/pulse/overview-automotive-cybersecurity-regulations-standards-bugra-kanmaz-on2cf/?trackingId=Nmi5Nu9zRD%2BOxw9yKR65%2Bg%3D%3D)
 
 ---
 **Senior Business Analyst | Luxoft GmbH (12/2021 - 10/2022)**
