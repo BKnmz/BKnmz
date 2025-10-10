@@ -19,7 +19,8 @@ By driving requirement traceability and cross-functional alignment, I successful
 
 #### Led Cross-Functional Collaboration & Training
 I developed and delivered Automotive Cybersecurity Compliance training for over 100 colleagues in 2025, and created awareness of the organization's internal capabilities.<br/>
-📃 [Blog article: The overview of Automotive CyberSecurity Regulations and Standards](https://diconium.com/en/blog/automotive-cybersecurity-regulations-and-standards)
+📃 [Article 1: The overview of Automotive CyberSecurity Regulations and Standards](https://www.linkedin.com/pulse/overview-automotive-cybersecurity-regulations-standards-bugra-kanmaz-on2cf/)
+📃 [Article 2: UN R155 vs. China’s GB 44495‑2024: What Automotive Cybersecurity Experts Need to Know](https://www.linkedin.com/pulse/un-r155-vs-chinas-gb-444952024-what-automotive-experts-bugra-kanmaz-4slhf/)
 
 ---
 **Senior Business Analyst | Luxoft GmbH (12/2021 - 10/2022)**
