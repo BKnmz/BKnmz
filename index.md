@@ -46,8 +46,8 @@ This section highlights projects and analyses from previous roles, demonstrating
 
 ### Data Analysis
 
-* **➡️ [Basic Data Analysis with Regression](https://www.slideshare.net/slideshow/basic-data-analysis-with-regression/246857285)**: This analysis applies regression models, a technique I later used to increase productivity via task estimation for ECU software industrialization.
-* **➡️ [Cyclistic Case Study - Google Data Analytics Certificate Capstone](https://www.kaggle.com/datasets/mbugra/cyclistic-case-study-capstone-project-1)**: The business task is to analyze how annual members and casual riders use Cyclistic bikes differently. So that appropriate 3 marketing strategies can be recommended to stakeholders.
+* **➡️ [Basic Data Analysis with Regression](https://www.slideshare.net/slideshow/basic-data-analysis-with-regression/246857285)**: This analysis applies regression models, a technique I later used to increase productivity via task estimation for ECU software industrialization. <br/>
+* **➡️ [Cyclistic Case Study - Google Data Analytics Certificate Capstone](https://www.kaggle.com/datasets/mbugra/cyclistic-case-study-capstone-project-1)**: The business task is to analyze how annual members and casual riders use Cyclistic bikes differently. So that appropriate 3 marketing strategies can be recommended to stakeholders. <br/>
 
 ---
 
